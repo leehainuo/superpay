@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29721ac5-21db-43e9-b8e6-30d3f63a0cd8" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Dev\Envs\maven\apache-maven-3.9.9\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Dev\Envs\maven\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2zwIySvbkPZlzvM9ucDNmxvwJSi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.superpay-member-model [install].executor": "Run",
+    "Maven.superpay-sso-model [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.SuperpayBaseServiceApplication.executor": "Run",
+    "Spring Boot.SuperpayDemoServiceApplication.executor": "Run",
+    "Spring Boot.SuperpayGatewayApplication.executor": "Run",
+    "Spring Boot.SuperpayMemberServiceApplication.executor": "Run",
+    "Spring Boot.SuperpayMerchantServiceApplication.executor": "Run",
+    "Spring Boot.SuperpaySsoServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Dev/Projects/superpay/superpay-server/superpay-service/superpay-merchant/superpay-merchant-service/src/main/java/com/superpay/merchant/service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "ssh.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-merchant\superpay-merchant-service\src\main\java\com\superpay\merchant\service" />
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-merchant\superpay-merchant-service\src\main" />
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-merchant\superpay-merchant-service" />
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-merchant-model\src\main\java\com\superpay\merchant\model" />
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-base\superpay-base-service\src\main\java\com\superpay\base\service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-merchant" />
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-base" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.superpay.merchant.api" />
+      <recent name="com.superpay.base.api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SuperpayGatewayApplication">
+    <configuration name="SuperpayBaseServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="superpay-base-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.superpay.base.service.SuperpayBaseServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperpayDemoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="superpay-demo-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.superpay.demo.service.SuperpayDemoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperpayGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="superpay-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.superpay.gateway.SuperpayGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperpayMemberServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="superpay-member-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.superpay.member.service.SuperpayMemberServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperpayMerchantServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="superpay-merchant-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.superpay.merchant.service.SuperpayMerchantServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperpaySsoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="superpay-sso-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.superpay.sso.service.SuperpaySsoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="29721ac5-21db-43e9-b8e6-30d3f63a0cd8" name="更改" comment="" />
+      <created>1752635962539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752635962539</updated>
+      <workItem from="1752635963606" duration="5111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

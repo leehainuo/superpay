@@ -8,14 +8,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="superpay-sso-model" />
-        <module name="superpay-sso-api" />
+        <module name="superpay-base-service" />
+        <module name="superpay-merchant-model" />
         <module name="superpay-common" />
+        <module name="superpay-gateway" />
+        <module name="superpay-base-model" />
+        <module name="superpay-demo-service" />
+        <module name="superpay-merchant-service" />
+        <module name="superpay-sso-api" />
         <module name="superpay-member-api" />
         <module name="superpay-member-service" />
-        <module name="superpay-gateway" />
         <module name="superpay-sso-service" />
         <module name="superpay-member-model" />
-        <module name="superpay-demo-service" />
+        <module name="superpay-merchant-api" />
+        <module name="superpay-base-api" />
       </profile>
     </annotationProcessing>
   </component>
