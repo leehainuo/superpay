@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29721ac5-21db-43e9-b8e6-30d3f63a0cd8" name="更改" comment="" />
+    <list default="true" id="29721ac5-21db-43e9-b8e6-30d3f63a0cd8" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superpay-service/superpay-apply/superpay-apply-service/src/main/java/com/superpay/apply/service/service/impl/MerchantApplyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/superpay-service/superpay-apply/superpay-apply-service/src/main/java/com/superpay/apply/service/service/impl/MerchantApplyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superpay-service/superpay-merchant/superpay-merchant-api/src/main/java/com/superpay/merchant/api/MerchantClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/superpay-service/superpay-merchant/superpay-merchant-api/src/main/java/com/superpay/merchant/api/MerchantClient.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,13 +48,15 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.SuperpayApplyServiceApplication.executor": "Run",
+    "Spring Boot.SuperpayApplyServiceApplication.executor": "Debug",
     "Spring Boot.SuperpayBaseServiceApplication.executor": "Run",
     "Spring Boot.SuperpayDemoServiceApplication.executor": "Run",
     "Spring Boot.SuperpayGatewayApplication.executor": "Run",
     "Spring Boot.SuperpayMemberServiceApplication.executor": "Run",
     "Spring Boot.SuperpayMerchantServiceApplication.executor": "Run",
     "Spring Boot.SuperpaySsoServiceApplication.executor": "Run",
+    "database.data.extractors.current.export.id": "JSON-Groovy.json.groovy",
+    "database.data.extractors.current.id": "JSON-Groovy.json.groovy",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Dev/Projects/superpay/superpay-server/superpay-service/superpay-apply/superpay-apply-service",
     "node.js.detected.package.eslint": "true",
@@ -58,11 +64,23 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "run.configurations.included.in.services": "true",
     "settings.editor.selected.configurable": "ssh.settings",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "redis",
+      "mysql"
+    ]
   }
 }]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-apply\superpay-apply-service" />
@@ -158,11 +176,19 @@
       <option name="presentableId" value="Default" />
       <updated>1752635962539</updated>
       <workItem from="1752635963606" duration="5475000" />
-      <workItem from="1752644171001" duration="1231000" />
+      <workItem from="1752644171001" duration="5939000" />
+      <workItem from="1752667628974" duration="4461000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="methodProxy" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
