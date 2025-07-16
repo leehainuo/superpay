@@ -29,6 +29,10 @@
         <option value="$PROJECT_DIR$/superpay-service/superpay-merchant/superpay-merchant-api/pom.xml" />
         <option value="$PROJECT_DIR$/superpay-merchant-service/pom.xml" />
         <option value="$PROJECT_DIR$/superpay-service/superpay-merchant/superpay-merchant-service/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-apply-model/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-service/superpay-apply/superpay-apply-model/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-apply-service/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-service/superpay-apply/superpay-apply-service/pom.xml" />
       </list>
     </option>
   </component>

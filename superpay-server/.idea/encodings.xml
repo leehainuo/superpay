@@ -13,6 +13,10 @@
     <file url="file://$PROJECT_DIR$/superpay-pom/superpay-parent/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/superpay-pom/superpay-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/superpay-pom/superpay-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/superpay-service/superpay-apply/superpay-apply-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/superpay-service/superpay-apply/superpay-apply-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/superpay-service/superpay-apply/superpay-apply-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/superpay-service/superpay-apply/superpay-apply-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/superpay-service/superpay-base/superpay-base-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/superpay-service/superpay-base/superpay-base-api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/superpay-service/superpay-base/superpay-base-model/src/main/java" charset="UTF-8" />

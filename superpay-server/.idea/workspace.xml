@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29721ac5-21db-43e9-b8e6-30d3f63a0cd8" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -29,9 +30,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2zwIySvbkPZlzvM9ucDNmxvwJSi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,8 +43,13 @@
     "Maven.superpay-member-model [install].executor": "Run",
     "Maven.superpay-sso-model [install].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.SuperpayApplyServiceApplication.executor": "Run",
     "Spring Boot.SuperpayBaseServiceApplication.executor": "Run",
     "Spring Boot.SuperpayDemoServiceApplication.executor": "Run",
     "Spring Boot.SuperpayGatewayApplication.executor": "Run",
@@ -51,7 +57,7 @@
     "Spring Boot.SuperpayMerchantServiceApplication.executor": "Run",
     "Spring Boot.SuperpaySsoServiceApplication.executor": "Run",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Dev/Projects/superpay/superpay-server/superpay-service/superpay-merchant/superpay-merchant-service/src/main/java/com/superpay/merchant/service",
+    "last_opened_file_path": "C:/Dev/Projects/superpay/superpay-server/superpay-service/superpay-apply/superpay-apply-service/src/main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,13 +70,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-apply\superpay-apply-service\src\main" />
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-apply\superpay-apply-service\src\main\java\com\superpay\apply\service" />
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-apply-model\src\main\java\com\superpay\apply\model" />
+      <recent name="C:\Dev\Projects\superpay\superpay-server" />
       <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-merchant\superpay-merchant-service\src\main\java\com\superpay\merchant\service" />
-      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-merchant\superpay-merchant-service\src\main" />
-      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-merchant\superpay-merchant-service" />
-      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-merchant-model\src\main\java\com\superpay\merchant\model" />
-      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-base\superpay-base-service\src\main\java\com\superpay\base\service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-apply" />
       <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-merchant" />
       <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-base" />
     </key>
@@ -90,6 +97,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.SuperpayGatewayApplication">
+    <configuration name="SuperpayApplyServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="superpay-apply-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.superpay.apply.service.SuperpayApplyServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SuperpayBaseServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="superpay-base-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.superpay.base.service.SuperpayBaseServiceApplication" />
@@ -148,7 +162,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752635962539</updated>
-      <workItem from="1752635963606" duration="5111000" />
+      <workItem from="1752635963606" duration="5475000" />
+      <workItem from="1752644171001" duration="889000" />
     </task>
     <servers />
   </component>
