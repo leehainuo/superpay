@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29721ac5-21db-43e9-b8e6-30d3f63a0cd8" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29721ac5-21db-43e9-b8e6-30d3f63a0cd8" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +52,7 @@
     "Spring Boot.SuperpayMerchantServiceApplication.executor": "Run",
     "Spring Boot.SuperpaySsoServiceApplication.executor": "Run",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Dev/Projects/superpay/superpay-server/superpay-service/superpay-apply/superpay-apply-service/src/main",
+    "last_opened_file_path": "C:/Dev/Projects/superpay/superpay-server/superpay-service/superpay-apply/superpay-apply-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,11 +65,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-apply\superpay-apply-service" />
       <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-apply\superpay-apply-service\src\main" />
       <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-apply\superpay-apply-service\src\main\java\com\superpay\apply\service" />
       <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-apply-model\src\main\java\com\superpay\apply\model" />
       <recent name="C:\Dev\Projects\superpay\superpay-server" />
-      <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-merchant\superpay-merchant-service\src\main\java\com\superpay\merchant\service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Dev\Projects\superpay\superpay-server\superpay-service\superpay-apply" />
@@ -163,7 +158,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752635962539</updated>
       <workItem from="1752635963606" duration="5475000" />
-      <workItem from="1752644171001" duration="889000" />
+      <workItem from="1752644171001" duration="1231000" />
     </task>
     <servers />
   </component>
