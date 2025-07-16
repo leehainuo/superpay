@@ -7,8 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="superpay-sso-model" />
+        <module name="superpay-sso-api" />
         <module name="superpay-common" />
+        <module name="superpay-member-api" />
+        <module name="superpay-member-service" />
         <module name="superpay-gateway" />
+        <module name="superpay-sso-service" />
+        <module name="superpay-member-model" />
         <module name="superpay-demo-service" />
       </profile>
     </annotationProcessing>

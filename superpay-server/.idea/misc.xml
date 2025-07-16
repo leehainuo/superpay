@@ -16,6 +16,17 @@
         <option value="$PROJECT_DIR$/superpay-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/superpay-demo-service/pom.xml" />
         <option value="$PROJECT_DIR$/superpay-service/superpay-demo/superpay-demo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-sso-model/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-service/superpay-sso/superpay-sso-model/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-sso-service/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-service/superpay-sso/superpay-sso-service/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-sso-api/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-service/superpay-sso/superpay-sso-api/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-member-api/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-member-model/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-service/superpay-member/superpay-member-model/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-service/superpay-member/superpay-member-api/pom.xml" />
+        <option value="$PROJECT_DIR$/superpay-service/superpay-member/superpay-member-service/pom.xml" />
       </list>
     </option>
   </component>
